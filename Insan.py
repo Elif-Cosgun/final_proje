@@ -1,3 +1,4 @@
+#dosayayi ice aktar.
 class Insan:
     #private bilgileri tanimla.
     def __init__(self, tc_no, ad, soyad, yas, cinsiyet, uyruk):
