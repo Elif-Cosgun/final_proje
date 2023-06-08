@@ -1,3 +1,4 @@
+#dosyayi ice aktar.
 from Insan import Insan
 #kalitim yoluyla calisan sinifi olustur.
 class Calisan(Insan):
