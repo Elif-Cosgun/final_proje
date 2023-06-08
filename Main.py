@@ -1,4 +1,5 @@
-#main dosyasi
+#main dosyasisi
+#issiz ve calisan  insanlar için dataframe olusturma.
 #kutuphane tanimla ve dosyaları ice aktar.
 import pandas as pd
 from Insan import Insan
