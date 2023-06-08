@@ -1,3 +1,4 @@
+#dosyayi ice aktar.
 from Calisan import Calisan
 # Kalitim yoluyla MaviYaka sinifini olustur.
 class MaviYaka(Calisan):
