@@ -1,3 +1,4 @@
+#kutuphane tanimla ve dosyaları ice aktar.
 import pandas as pd
 from Insan import Insan
 from Issiz import Issiz
