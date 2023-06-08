@@ -1,3 +1,4 @@
+#main dosyasi
 #kutuphane tanimla ve dosyaları ice aktar.
 import pandas as pd
 from Insan import Insan
