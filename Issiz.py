@@ -1,3 +1,4 @@
+#dosyayi ice aktar.
 from Insan import Insan
 
 # Kalitim yoluyla Issiz sinifini olustur.
