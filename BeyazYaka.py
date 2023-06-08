@@ -1,3 +1,4 @@
+#dosyayi ice aktar.
 from Calisan import Calisan
 #kalitim yoluyla beyazyaka sinifi olustur.
 class BeyazYaka(Calisan):
